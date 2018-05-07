@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\0_Independent\4.program\5.1MySvnTest\ZXingMoreResult\trunk\RSScan-master.iml" filepath="D:\0_Independent\4.program\5.1MySvnTest\ZXingMoreResult\trunk\RSScan-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libzxing/libzxing.iml" filepath="$PROJECT_DIR$/libzxing/libzxing.iml" />
+      <module fileurl="file://D:\0_Independent\4.program\5.1MySvnTest\ZXingMoreResult\trunk\libzxing\libzxing.iml" filepath="D:\0_Independent\4.program\5.1MySvnTest\ZXingMoreResult\trunk\libzxing\libzxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rq_scan/rq_scan.iml" filepath="$PROJECT_DIR$/rq_scan/rq_scan.iml" />
+      <module fileurl="file://D:\0_Independent\4.program\5.1MySvnTest\ZXingMoreResult\trunk\rq_scan\rq_scan.iml" filepath="D:\0_Independent\4.program\5.1MySvnTest\ZXingMoreResult\trunk\rq_scan\rq_scan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trunk.iml" filepath="$PROJECT_DIR$/trunk.iml" />
+    </modules>
+  </component>
+</project>
